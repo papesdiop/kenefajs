@@ -1,9 +1,9 @@
 kenefajs
 ========
 
-KENEFA a health data repository system,
-**{**
-    version_in_NodeJs_platform (Node JS, Express JS, mongooese, mongoDB, Ember JS, Require JS)
+KENEFA a health data repository system,  
+**{**  
+    version_in_NodeJs_platform (Node JS, Express JS, mongooese, mongoDB, Ember JS, Require JS)  
 **}**  
 
 Getting started
